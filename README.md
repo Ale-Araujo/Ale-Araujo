@@ -36,6 +36,7 @@ A tecnologia tem sido minha maior aliada, permitindo transformar ideias em siste
 ## 💻 Projetos Recentes
 
 [![VAT](https://img.shields.io/badge/Vacine_Alto_Tietê_(VAT)-ADD8E6?style=for-the-badge&logo=healthicons&logoColor=white)](https://github.com/Ale-Araujo/NomeDoProjetoVAT)  
+
 A VAT  é um aplicativo móvel voltado para o Alto Tietê, que centraliza informações sobre vacinas e facilita o acesso da comunidade às unidades de saúde. O sistema promove transparência, agilidade e eficiência na comunicação, permitindo o acompanhamento do calendário vacinal, a digitalização da carteirinha de vacinação e agendamento de atendimentos, reduzindo filas e otimizando o processo. A solução integra tecnologia e saúde para fortalecer a relação entre população e gestão pública, garantindo mais inclusão e controle sobre as campanhas de imunização.
 
 *Desenvolvido em equipe; contribuições pessoais: documentação técnica e curricular, gestão de projeto como Scrum Master, preparo de briefing, matriz de requisitos e regras de negócio, além do acompanhamento de reuniões e registros de progresso.*
