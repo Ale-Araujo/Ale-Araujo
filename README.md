@@ -42,7 +42,7 @@ A VAT  é um aplicativo móvel voltado para o Alto Tietê, que centraliza inform
 
 A HELP é uma plataforma digital que conecta profissionais autônomos de tecnologia a empresas e demandas reais do mercado. Atuando como uma ponte segura entre talento e oportunidade, a plataforma oferece estrutura, suporte e credibilidade, garantindo que as conexões sejam realizadas de forma segura, eficiente e organizada. Além de aumentar a visibilidade dos profissionais, a HELP promove crescimento sustentável e confiável no mercado autônomo, facilitando a gestão de projetos, a comunicação entre clientes e prestadores, e fortalecendo a confiança em trabalhos independentes, transformando a maneira como o mercado reconhece e valoriza o talento tecnológico.
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Araujo&layout=compact&theme=radical)
+
 
 
 
