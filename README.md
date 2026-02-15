@@ -3,7 +3,6 @@
 **Engenheiro de Software**
 
 Olá! Me chamo Alexandre Henrique, tenho 20 anos e sou natural de São Paulo, SP. Estou cursando Engenharia de Software na Universidade Mogi das Cruzes, atualmente no 5º semestre. Possuo formação técnica em Informática integrada ao Ensino Médio pelo SENAC, que contribuiu para a construção da minha base em tecnologia e desenvolvimento de sistemas. 
-
 A tecnologia tem sido minha maior aliada, permitindo transformar ideias em sistemas funcionais e projetos fictícios com aplicabilidade no mundo real, sempre com foco em soluções práticas e impacto tangível.
 
 ## 🛠️ Hard Skills
@@ -33,14 +32,20 @@ A tecnologia tem sido minha maior aliada, permitindo transformar ideias em siste
 ![Segurança](https://img.shields.io/badge/Segurança-E74C3C?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-2ECC71?style=for-the-badge&logo=node.js&logoColor=white)
 
+
 ## 💻 Projetos Recentes
 
 [![VAT](https://img.shields.io/badge/Vacine_Alto_Tietê_(VAT)-ADD8E6?style=for-the-badge&logo=healthicons&logoColor=white)](https://github.com/Ale-Araujo/NomeDoProjetoVAT)  
 A VAT  é um aplicativo móvel voltado para o Alto Tietê, que centraliza informações sobre vacinas e facilita o acesso da comunidade às unidades de saúde. O sistema promove transparência, agilidade e eficiência na comunicação, permitindo o acompanhamento do calendário vacinal, a digitalização da carteirinha de vacinação e agendamento de atendimentos, reduzindo filas e otimizando o processo. A solução integra tecnologia e saúde para fortalecer a relação entre população e gestão pública, garantindo mais inclusão e controle sobre as campanhas de imunização.
 
+*Desenvolvido em equipe; contribuições pessoais: documentação técnica e curricular, gestão de projeto como Scrum Master, preparo de briefing, matriz de requisitos e regras de negócio, além do acompanhamento de reuniões e registros de progresso.*
+
+
 [![HELP](https://img.shields.io/badge/HELP-FFA500?style=for-the-badge&logo=fontawesome&logoColor=000000&color=FFA500)](https://github.com/Ale-Araujo/NomeDoProjetoHELP)
 
 A HELP é uma plataforma digital que conecta profissionais autônomos de tecnologia a empresas e demandas reais do mercado. Atuando como uma ponte segura entre talento e oportunidade, a plataforma oferece estrutura, suporte e credibilidade, garantindo que as conexões sejam realizadas de forma segura, eficiente e organizada. Além de aumentar a visibilidade dos profissionais, a HELP promove crescimento sustentável e confiável no mercado autônomo, facilitando a gestão de projetos, a comunicação entre clientes e prestadores, e fortalecendo a confiança em trabalhos independentes, transformando a maneira como o mercado reconhece e valoriza o talento tecnológico.
+
+*Desenvolvido em equipe; contribuições pessoais: início como PO (Product Owner). Elaboração inicial de briefing, Matriz CSD, diagrama de atividades e requisitos funcionais, posteriormente, desenvolvimento web integrado com backend e banco de dados, elaboração e apresentação do pitch, além da validação contínua e ajustes conforme o feedback.*
 
 
 
